@@ -1,8 +1,8 @@
 This test is created at a windows pc 
 Virtual Environment is ready to use.
 
-After downloading the files, user only needs to activate the 'venv' from scripts
-commands to use are:
+After downloading the files, user only needs to activate the 'venv' from scripts.
+after activating the cmd screen at the related directory, commands to use are:
 
 1- .venv\Scripts\activate
 
